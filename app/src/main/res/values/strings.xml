@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">UnescoApp</string>
+    <string name="email_label">Email: </string>
+    <string name="name_label">Nama: </string>
+    <string name="profile_picture_description">Deskripsi gambar profil</string>
+    <string name="situs_name">Nama Situs</string>
+    <string name="detail">Detail</string>
+    <string name="description">Deskripsi</string>
+    <string name="object_received">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Tembok Besar Tiongkok</item>
+        <item>Borobudur</item>
+        <item>Chichén Itzá</item>
+        <item>Colosseum</item>
+        <item>Patung Liberty</item>
+        <item>Matchu Picchu</item>
+        <item>Cristo Redentor</item>
+        <item>Perta</item>
+        <item>Piramida Giza</item>
+        <item>Taj Mahal</item>
+
+    </string-array>
+    <string-array name="data_description">
+        <item>Tembok Besar Tiongkok tidak panjang terus menerus, tetapi merupakan kumpulan tembok-tembok pendek yang mengikuti bentuk pegunungan Tiongkok utara. Pada tanggal 18 April 2009, setelah investigasi secara akurat oleh pemerintah Republik Rakyat Tiongkok, diumumkan bahwa tembok raksasa yang dikonstruksikan pada periode Dinasti Ming panjangnya adalah 8.851 km.</item>
+        <item>Candi Borobudur (Jawa: ꦕꦟ꧀ꦝꦶꦧꦫꦧꦸꦝꦸꦂ, translit. Candhi Båråbudhur) adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terletak kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta. Candi dengan banyak stupa ini didirikan oleh para penganut agama Buddha Mahayana sekitar tahun 800-an Masehi pada masa pemerintahan wangsa Syailendra. Borobudur adalah candi atau kuil Buddha terbesar di dunia,sekaligus salah satu monumen Buddha terbesar di dunia.</item>
+        <item>Chichén Itzá (pengucapan: /tʃiːˈtʃɛn iːˈtsɑː/); adalah suatu Situs Peradaban Maya di Meksiko pada abad 800 SM. Piramida Kukulcan di kompleks situs bersejarah ini dipercaya sebagai pusat kegiatan politik dan ekonomi peradaban bangsa Maya yang terletak di Semenanjung Yucatan (kini wilayah Meksiko). Itza merupkan titik sentral kompleks bangunan lainnya seperti Piramida Kukulcan, Candi Chac Mool, dan bangunan Seribu Tiang.</item>
+        <item>Koloseum (bahasa Latin: Colosseum atau Colisseum; bahasa Italia: Colosseo) adalah sebuah peninggalan bersejarah berupa arena gladiator, dibangun oleh Vespasian. Tempat pertunjukan yang besar berbentuk elips yang disebut amfiteater atau dengan nama aslinya Amphitheatrum Flavium, yang termasuk salah satu dari Enam Puluh Sembilan Keajaiban Dunia Pertengahan. Situs ini terletak di kota kecil di Italia, Roma, yang didirikan oleh Wali kota Vespasianus pada masa Domitianus dan diselesaikan oleh anaknya Titus, dan menjadi salah satu karya terbesar dari arsitektur Kekaisaran Romawi yang pernah dibangun. Koloseum dirancang untuk menampung 50.000 orang penonton.</item>
+        <item>Patung Liberty (juga disebut bahasa Inggris: Liberty Enlightening the World, bahasa Prancis: La Liberté éclairant le monde, bahasa Indonesia: Libertas Menerangi Dunia) adalah patung berukuran raksasa di Pulau Liberty, muara Sungai Hudson, Pelabuhan New York, Amerika Serikat. Patung ini dihadiahkan Prancis untuk Amerika Serikat pada akhir abad ke-19 dan merupakan simbol selamat datang untuk pengunjung, imigran, dan orang Amerika yang kembali.</item>
+        <item>Machu Picchu (bahasa Quechua Machu Pikchu, "Gunung Tua"; sering juga disebut "Kota Inca yang hilang") adalah sebuah lokasi reruntuhan Inca pra-Columbus yang terletak di wilayah pegunungan pada ketinggian sekitar 2.350 m di atas permukaan laut. Machu Picchu berada di atas lembah Urubamba di Peru, sekitar 70 km barat laut Cusco. Menurut banyak sarjana, nama aslinya adalah Llaqtapata. Itu dinyatakan Situs Warisan Dunia oleh UNESCO di 1983 dan merupakan salah satu dari Tujuh Keajaiban Dunia</item>
+        <item>Patung Kristus Penebus (bahasa Portugis: Cristo Redentor) adalah patung Yesus Kristus dengan gaya arsitektur Art Deco terbesar dan terdapat di Rio de Janeiro, Brasil. Patung memiliki tinggi 38 meter dan terletak di puncak dari Gunung Corcovado yang tingginya 710 m di Taman Nasional Hutan Tijuca, yang menghadap ke kota. Patung ini menjadi simbol umat Kristen utamanya umat Katolik, dan menjadi simbol kebanggaan kota. Tangan patung ini yang terbuka dilihat banyak orang sebagai tanda kayu salib.</item>
+        <item>Petra (bahasa Arab: ٱلْبَتْرَا, translit. Al-Batrāʾ; bahasa Yunani Kuno: Πέτρα, "Batu", Nabatea: 𐢛𐢚𐢓𐢈), awalnya dikenal penduduknya sebagai Raqmu adalah kota bersejarah dan arkeologi di Yordania selatan. Berbatasan dengan gunung Jabal Al-Madbah, di cekungan yang dikelilingi oleh pegunungan yang membentuk sisi timur lembah Arabah yang membentang dari Laut Mati ke Teluk Aqaba. Daerah sekitar Petra telah dihuni sejak 7000 SM, dan orang-orang Nabatea mungkin telah menetap di tempat yang akan menjadi ibu kota kerajaan mereka pada awal abad ke-4 SM. Pekerjaan arkeologi hanya menemukan bukti kehadiran Nabatea sejak abad kedua SM, pada saat itu Petra telah menjadi ibu kota mereka. Orang-orang Nabatea adalah orang Arab nomaden yang berinvestasi di Petra yang dekat dengan rute perdagangan dupa dengan menjadikannya sebagai pusat perdagangan regional utama.</item>
+        <item>Piramida Mesir adalah sebutan untuk sebuah bangunan berbentuk segitiga di Mesir yang merupakan piramida kuno berbentuk dengan struktur dari batu. Pada bulan November tahun 2008, diperkirakan bahwa terdapat 138 atau 118 jumlah piramida Mesir yang telah teridentifikasi. Sebagian besar piramida tersebut dibangun selama periode Kerajaan Pertengahan Mesir dan Kerajaan Lama Mesir, sebagai makam untuk raja-raja Mesir Kuno yang dikenal dengan nama Firaun dan permaisuri mereka</item>
+        <item>Taj Mahal (bahasa Urdu: تاج محل, Hindi: ताज महल) adalah sebuah monumen yang terletak di Agra, India. Dibangun atas keinginan Kaisar Mughal Shāh Jahān, anak Jahangir, sebagai sebuah mausoleum untuk istri Persianya, Arjumand Banu Begum, juga dikenal sebagai Mumtaz-ul-Zamani atau Mumtaz Mahal. Taj Mahal merupakan sebuah adi karya dari arsitektur Mughal. Shah Jahan, kaisar dari Kekaisaran Mughal memiliki kekayaan yang besar selama masa kejayaannya. Pada 1631 istri ketiganya dan merupakan istri yang paling dicintainya wafat sewaktu melahirkan putrinya Gauhara Begum, anak ke-14 mereka.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/bentengchina</item>
+        <item>@drawable/borobudur</item>
+        <item>@drawable/chicenitza</item>
+        <item>@drawable/colosseos</item>
+        <item>@drawable/liberti</item>
+        <item>@drawable/machupacu</item>
+        <item>@drawable/patungyesus</item>
+        <item>@drawable/petra</item>
+        <item>@drawable/piramidgiza</item>
+        <item>@drawable/tajmahal</item>
+    </integer-array>
+</resources>
